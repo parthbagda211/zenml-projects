@@ -1,3 +1,0 @@
-[submodule "sign-language-detection-yolov5/yolov5"]
-	path = sign-language-detection-yolov5/yolov5
-	url = https://github.com/safoinme/yolov5.git
